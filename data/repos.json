@@ -1,29 +1,5 @@
 [
   {
-    "id": "c3e933bc-c04c-44f1-8f5a-fb68956b3ef6",
-    "owner": "simonpierreboucher02",
-    "name": "nexus-stress-test",
-    "fullName": "simonpierreboucher02/nexus-stress-test",
-    "description": "NEXUS - Plateforme de Stress Test Bancaire (Desjardins) | Next.js 14 + FastAPI + FMP API",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/simonpierreboucher02/nexus-stress-test",
-    "addedAt": "2026-02-18T05:45:12.674Z"
-  },
-  {
-    "id": "4d48214d-0065-4078-9213-d0627743d613",
-    "owner": "simonpierreboucher02",
-    "name": "academic-website",
-    "fullName": "simonpierreboucher02/academic-website",
-    "description": "Academic website with admin dashboard — Next.js 16, Prisma, Tailwind CSS, mobile-first",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/simonpierreboucher02/academic-website",
-    "addedAt": "2026-02-18T05:45:12.799Z"
-  },
-  {
     "id": "fe9278aa-290a-4d58-85dc-60c67260123d",
     "owner": "simonpierreboucher02",
     "name": "CV",
@@ -574,5 +550,53 @@
     "forks": 0,
     "url": "https://github.com/simonpierreboucher02/DUPROPRIO_WEBSCRAPING-main",
     "addedAt": "2026-02-18T05:45:19.895Z"
+  },
+  {
+    "id": "a5443fe6-3deb-46f9-95f2-de621faa9e31",
+    "owner": "simonpierreboucher02",
+    "name": "academic",
+    "fullName": "simonpierreboucher02/academic",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/simonpierreboucher02/academic",
+    "addedAt": "2026-02-18T06:14:54.900Z"
+  },
+  {
+    "id": "73176e23-802e-467b-852e-96a8cf0fe5e7",
+    "owner": "simonpierreboucher02",
+    "name": "claude-chat",
+    "fullName": "simonpierreboucher02/claude-chat",
+    "description": "Private Claude Chat interface with streaming, user management, and conversation sharing",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/simonpierreboucher02/claude-chat",
+    "addedAt": "2026-02-18T06:14:55.056Z"
+  },
+  {
+    "id": "fb9fcb45-e9e5-409b-be36-6d54dee29dfd",
+    "owner": "simonpierreboucher02",
+    "name": "my-github-portal",
+    "fullName": "simonpierreboucher02/my-github-portal",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/simonpierreboucher02/my-github-portal",
+    "addedAt": "2026-02-18T06:14:55.354Z"
+  },
+  {
+    "id": "04e327c9-48db-4422-9477-9f2ce86121c0",
+    "owner": "simonpierreboucher02",
+    "name": "spb-private-cloud",
+    "fullName": "simonpierreboucher02/spb-private-cloud",
+    "description": "Cloud personnel privé - Self-hosted, mobile-first, secure",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/simonpierreboucher02/spb-private-cloud",
+    "addedAt": "2026-02-18T06:14:55.599Z"
   }
 ]
